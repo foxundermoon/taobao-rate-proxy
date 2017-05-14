@@ -1,0 +1,17 @@
+{
+  "main": "index.js",
+  "version": "1.0.0",
+  "author": {
+    "email": "fox@vvfox.com",
+    "name": "foxundermoon",
+    "url": "http://github.com/foxundermoon"
+  },
+  "scripts": {
+    "start": "micro",
+    "debug":"node  --nolazy --debug-brk=5858  node_modules/micro/bin/micro.js "
+  },
+  "dependencies": {
+    "micro": "^7.3.3",
+    "node-fetch": "^1.6.3"
+  }
+}
