@@ -1,5 +1,6 @@
 {
   "main": "index.js",
+  "name": "taobao-rate-proxy",
   "version": "1.0.0",
   "author": {
     "email": "fox@vvfox.com",
